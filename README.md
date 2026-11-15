@@ -1,3 +1,5 @@
+> **Maintained by [Joseph Ukeje](https://github.com/UkejeJoseph)**
+
 # Scrunchy - Hackathon Documentation
 
 **Welcome to the Scrunchy hackathon submission documentation!**
